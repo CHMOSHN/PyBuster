@@ -2,7 +2,7 @@
 
 ---
 
-Small programm made out of boredom. Clone of a [GoBuster](https://github.com/OJ/gobuster) programm but made in python. READ CODE AND COMENTS!!!
+Small programm made out of boredom. Clone of a [GoBuster](https://github.com/OJ/gobuster), but made in python. READ CODE AND COMENTS!!!
 
 ---
 
